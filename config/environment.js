@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-bootstrap-boilerplate',
+    modulePrefix: 'trip-slide',
     environment: environment,
     contentSecurityPolicy: { 'connect-src': "'self' https://auth.firebase.com wss://*.firebaseio.com" },
     firebase: 'https://trip-slide.firebaseIO.com/',

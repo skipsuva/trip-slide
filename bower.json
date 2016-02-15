@@ -1,5 +1,5 @@
 {
-  "name": "ember-bootstrap-boilerplate",
+  "name": "trip-slide",
   "dependencies": {
     "ember": "1.13.12",
     "ember-cli-shims": "0.0.6",

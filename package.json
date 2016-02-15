@@ -1,7 +1,7 @@
 {
-  "name": "ember-bootstrap-boilerplate",
+  "name": "trip-slide",
   "version": "0.0.0",
-  "description": "Small description for ember-bootstrap-boilerplate goes here",
+  "description": "Small description for trip-slide goes here",
   "private": true,
   "directories": {
     "doc": "doc",
