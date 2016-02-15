@@ -1,0 +1,10 @@
+<div class="col-md-2">
+  <strong>Your Trips</strong>
+  <ul>
+    {{#each model as |trip|}}
+    <li>{{link-to trip.name "trips.trip" trip.id}}</li>
+    {{/each}}
+  </ul>
+</div>
+
+{{outlet}}
