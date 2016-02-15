@@ -1,6 +1,5 @@
-# Ember-bootstrap-boilerplate
+# Trip-Slide
 
-A basic Ember boilerplate skeleton with bootstrap pre-loaded.  Just clone, npm install and start building your project.
 
 Uses [Ember CLI Sass](https://github.com/aexmachina/ember-cli-sass) and [Ember Boostrap](https://www.npmjs.com/package/ember-bootstrap).
 
