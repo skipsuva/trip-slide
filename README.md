@@ -1,7 +1,9 @@
 # Ember-bootstrap-boilerplate
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A basic Ember boilerplate skeleton with bootstrap pre-loaded.  Just clone, npm install and start building your project.
+
+Uses [Ember CLI Sass](https://github.com/aexmachina/ember-cli-sass) and [Ember Boostrap](https://www.npmjs.com/package/ember-bootstrap).
+
 
 ## Prerequisites
 
@@ -50,4 +52,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
