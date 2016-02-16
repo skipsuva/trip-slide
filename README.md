@@ -1,8 +1,8 @@
 # Trip-Slide
 
 
-Uses [Ember CLI Sass](https://github.com/aexmachina/ember-cli-sass) and [Ember Boostrap](https://www.npmjs.com/package/ember-bootstrap).
-[Ember Pickaday](https://github.com/edgycircle/ember-pikaday)
+Uses [Ember CLI Sass](https://github.com/aexmachina/ember-cli-sass),  [Ember Boostrap](https://www.npmjs.com/package/ember-bootstrap),
+[Ember Pickaday](https://github.com/edgycircle/ember-pikaday), and [Ember Fire](https://github.com/firebase/emberfire).
 
 ## Prerequisites
 
