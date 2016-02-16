@@ -4,11 +4,12 @@ export default Ember.Route.extend({
   model(){
     return this.store.createRecord('trip');
   },
-  actions: {
-    addTrip(){
-      let trip = this.modelFor(this.routeName);
-      trip.save();
-      this.transitionTo('trips.trip');
-    }
-  }
+  // actions: {
+  //   addTrip(){
+  //     // debugger;
+  //     let trip = this.get('model');
+  //     trip.save();
+  //     // this.transitionTo('trips.trip');
+  //   }
+  // }
 });
